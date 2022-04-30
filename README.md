@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jhon Garces Montes</h1>
 <h3 align="center">A Passionate and creative Front-End Developer based in Colombia 🇨🇴.</h3>
 
-- 🔭 I’m currently working on [.](.)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://jhongarces.dev/](https://jhongarces.dev/)
+- 👨‍💻 All of my projects are available at [https://jhongarces.dev/](https://jhongarces.dev/projects)
 
-- 📝 I regularly write articles on [.](.)
-
-- 💬 Ask me about **react**
+- 📝 I regularly write articles on [https://jhongarces.dev/](https://jhongarces.dev/blog)
 
 - 📫 How to reach me **contact@jhongarces.dev**
 
