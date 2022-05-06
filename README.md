@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhon Garces Montes</h1>
+<h1 align="center">Hi 👋🏾, I'm Jhon Garces Montes</h1>
 <h3 align="center">A Passionate and creative Front-End Developer based in Colombia 🇨🇴.</h3>
 
 
