@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **contact@jhongarces.dev**
 
-- 📄 Know about my experiences [.](.)
-
-- ⚡ Fun fact **.**
+- ⚡ Fun fact ** I used to sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
