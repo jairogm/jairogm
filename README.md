@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jhongarces.dev/](https://jhongarces.dev/projects)
 
-- 📝 I regularly write articles on [https://jhongarces.dev/](https://jhongarces.dev/blog)
-
 - 📫 How to reach me **contact@jhongarces.dev**
 
 - ⚡ Fun fact ** I used to sing**
