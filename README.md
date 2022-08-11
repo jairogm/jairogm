@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jhongarces.dev/](https://jhongarces.dev/projects)
 
-- 📫 How to reach me **contact@jhongarces.dev**
+- 📫 How to reach me **jhongarcesmontes@gmail.com**
 
 - ⚡ Fun fact ** I used to sing**
 
