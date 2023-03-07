@@ -1,4 +1,4 @@
-<h3>Hi 👋🏾, I'm Jhon: </h4><br>🧑🏾‍💻 FrontEnd Dev<br>+2 Years of experience<br>🎧 I love music<br><br>In recent years I have had the opportunity to learn and work with different technologies and I hope to continue doing so.<br>I like working with people, I'm interested in bonding and learning from each of them. I constantly put myself in front of new challenges to try to solve them, either with my current tools or by learning new ones.<br>
+<h3>Hi 👋🏾, I'm Jhon: </h4><br>🧑🏾‍💻 FrontEnd Dev<br>+2 Years of experience<br>🎧 I love music<br><br>In recent years I have had the opportunity to learn and work with different technologies and I hope to continue doing so.<br><br>I like working with people, I'm interested in bonding and learning from each of them. I constantly put myself in front of new challenges to try to solve them, either with my current tools or by learning new ones.<br>
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhongarces/) 
